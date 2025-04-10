@@ -1,2 +1,2 @@
 # js_code
-This is practice code
+This is practice code.
